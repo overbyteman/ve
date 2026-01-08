@@ -35,7 +35,7 @@
     "fs-extra": "^11.3.0",
     "os": "^0.1.2",
     "path": "^0.12.7",
-    "systeminformation": "^5.18.17",
+    "systeminformation": "^5.27.14",
     "tempy": "^3.1.0",
     "workerpool": "^6.2.1"
   },
